@@ -1,0 +1,2 @@
+from mystructures.stacks.statictypestack.StaticTypeStack import StaticTypeStack
+from mystructures.linkedlist.circularlinkedlist.CircularLinkedList import CircularLinkedList
